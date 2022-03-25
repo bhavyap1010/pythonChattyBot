@@ -2,10 +2,10 @@ type: choice
 is_multiple_choice: true
 options:
 - text: print("Hello, World!")
-- text: print("Hello, World!"
 - text: print('Hello, World!')
-- text: print(Hello, World!)
 - text: PRINT("Hello, World!")
+- text: print("Hello, World!"
+- text: print(Hello, World!)
 files:
 - name: main.py
   visible: true

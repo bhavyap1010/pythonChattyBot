@@ -56,7 +56,7 @@ files:
 
     print('What a great name you have, {your_name}!')
   learner_created: false
-feedback_link: https://hyperskill.org/projects/97/stages/535/implement#comment
+feedback_link: https://hyperskill.org/learn/step/8800#comment
 status: Solved
 feedback:
   message: Congratulations!

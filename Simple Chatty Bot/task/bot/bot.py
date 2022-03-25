@@ -56,5 +56,5 @@ greet('Base', '2022')  # change it as you need
 remind_name()
 guess_age()
 count()
-test()
+test()  # test
 end()
